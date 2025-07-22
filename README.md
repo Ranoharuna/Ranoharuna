@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Haruna Abdullahi Yusuf
-
-🎯 A **Quantity Surveyor**, **Business Manager**, and passionate **Data & Software Development Student** working toward creating real-world digital solutions.
-
-🔧 Currently learning:
-- 💼 Business Intelligence (Coursera + Excelerate)
-- 💻 Software Development (Diploma in Progress)
-- 📊 Business Administration (Awaiting Results)
+# 👋 Hi, I'm Haruna Abdullahi Yusuf  
+**Quantity Surveyor | Software Engineering Student | Business Manager**
 
 ---
 
-## 🌐 Portfolio Website
-📎 Visit: [ranoharuna.github.io](https://ranoharuna.github.io)
+## 🧾 About Me  
+I’m Haruna Abdullahi Yusuf — a Quantity Surveyor and current Software Engineering & Development student, passionate about combining technical and business skills to drive progress. I’m also completing programs in Business Administration and Business Intelligence (awaiting final results).  
 
+With experience in the construction industry and a strong interest in digital transformation, I focus on creating practical, impactful solutions that improve lives and communities.
+
+---
+
+## 🌐 Portfolio Website  
+📎 Visit: [ranoharuna.github.io](https://ranoharuna.github.io)  
 💼 Download My CV: [Click here](https://ranoharuna.github.io/Haruna_Abdullahi_Yusuf_CV_Updated.docx)
 
 ---
 
 ## 🚀 Projects
 
-### 🔧 BOQ Estimator Web App *(in development)*
+### 🔧 BOQ Estimator Web App *(in development)*  
 > A tool that helps Quantity Surveyors and Engineers calculate Bill of Quantities easily, using HTML, CSS, and JavaScript — fully deployable via GitHub Pages.
 
 ---
@@ -44,4 +44,3 @@
 ---
 
 > 💡 “To lead with purpose, inspire others, and create solutions that drive progress and improve lives.”
-
